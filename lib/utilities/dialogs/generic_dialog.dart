@@ -12,7 +12,7 @@ Future<T?> showGenericDialog<T>(
     context: context,
     builder: (context) {
       return AlertDialog(
-        title: const Text("title"),
+        title: Text(title),
         content: Text(content),
         actions: options.keys.map((optionsTitle) {
           final T value = options[optionsTitle];
