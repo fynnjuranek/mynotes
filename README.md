@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-A new Flutter project.
+The tutorial that i've worked through: https://www.youtube.com/watch?v=VPvVD8t02U8&t=3223s
 
 ## Getting Started
 
